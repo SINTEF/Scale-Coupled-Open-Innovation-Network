@@ -1,7 +1,7 @@
 This file includes instructions for modifying the SEA template on Github. If you would only like to use the template, please see the "README-use" file.
 
-1. Create an issue with a detailed description of what you plan to change: https://github.com/SINTEF/Scale-Coupled-Open-Innovation-Network/issues
-2. Assign the issue to yourself and include an estimate of when you will work on the template in the description
+1. Create an issue with a detailed description of what you plan to change (https://github.com/SINTEF/Scale-Coupled-Open-Innovation-Network/issues) and assign the issue to yourselve
+2. Check with Carlos (cr.arnaiz@upm.es) to provide a timeframe for implementation
 3. Download and install the Github desktop app: https://desktop.github.com/
 4. Clone the Scale-Coupled-Open-Innovation-Network repository to your computer
 5. Make your changes to the "SEA Tool - Template.xlsm" and, if necessary, to the "SEA Tool - User Guide.docx" in the /Economics/ folder
