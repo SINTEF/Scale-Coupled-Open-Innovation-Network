@@ -5,8 +5,8 @@ This file includes instructions for modifying the SEA template on GitHub. If you
 3. Download and install the GitHub desktop app: https://desktop.github.com/
 4. Clone the Scale-Coupled-Open-Innovation-Network repository to your computer
 5. Make your changes to the "SEA Tool - Template.xlsm" and, if necessary, to the "SEA Tool - User Guide.docx" in the /Economics/ folder
-6. Add your name, email address, and issue number to the list of other contributors in the first tab "SEA Tool" in the "SEA Tool - Template.xlsm" file
-7. Commit your changes in the GitHub desktop app, adding a link to the detailed description in the issue you opened in Step 1 (updated if necessary)
+6. Add your name, email address, and issue number to the list of other contributors and update the version number in the first tab "SEA Tool" in the "SEA Tool - Template.xlsm" file
+7. Commit your changes in the GitHub desktop app, adding a link to the detailed description in the issue you opened in Step 1 (update the issue if necessary)
 8. Push your changes to the repository
 9. Close the issue you opened in Step 1 above and be ready to promptly address any queries if it is re-opened by other users
 
